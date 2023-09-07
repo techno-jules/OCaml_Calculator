@@ -61,4 +61,7 @@ let () =
  
   Printf.printf "All test cases passed!\n"
 
+  let () =
+    test_case ();
+
 
